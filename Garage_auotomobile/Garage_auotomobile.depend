@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1680375261 source:d:\dowloads\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\main.cpp
+	"Piece.h"
+
+1680685610 d:\dowloads\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\include\piece.h
+	<bits\stdc++.h>
+
+1680685605 source:d:\dowloads\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\src\piece.cpp
+	"Piece.h"
+
+1680706747 source:d:\dowloads\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\src\date .cpp
+	"date .h"
+
+1680625376 d:\dowloads\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\include\date .h
+	"Piece.h"
+
+1680616908 source:d:\dowloads\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\src\commande_achat.cpp
+	"commande_achat.h"
+
+1680616908 d:\dowloads\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\include\commande_achat.h
+
+1680375261 source:d:\dowloads\c++\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\main.cpp
+	"Piece.h"
+
+1680685610 d:\dowloads\c++\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\include\piece.h
+	<bits\stdc++.h>
+
+1680616908 source:d:\dowloads\c++\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\src\commande_achat.cpp
+	"commande_achat.h"
+
+1682600982 d:\dowloads\c++\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\include\commande_achat.h
+
+1680685605 source:d:\dowloads\c++\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\src\piece.cpp
+	"Piece.h"
+
+1682450902 source:d:\dowloads\c++\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\src\date .cpp
+	"date .h"
+
+1682450898 d:\dowloads\c++\garage_auotomobile_binome_moemen_khchimmadi_eya_nouiri\include\date .h
+	<bits/stdc++.h>
+

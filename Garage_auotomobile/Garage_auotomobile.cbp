@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Garage_auotomobile_Binome_Moemen_Khchimmadi_Eya_Nouiri" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Garage_auotomobile_Binome_Moemen_Khchimmadi_Eya_Nouiri" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Garage_auotomobile_Binome_Moemen_Khchimmadi_Eya_Nouiri" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Piece.h" />
+		<Unit filename="include/atelier.h" />
+		<Unit filename="include/client.h" />
+		<Unit filename="include/commande_achat.h" />
+		<Unit filename="include/commande_rep.h" />
+		<Unit filename="include/date .h" />
+		<Unit filename="include/employe.h" />
+		<Unit filename="include/facture.h" />
+		<Unit filename="include/garage_auto.h" />
+		<Unit filename="include/magazin.h" />
+		<Unit filename="include/personne.h" />
+		<Unit filename="include/sim.h" />
+		<Unit filename="include/voiture.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Piece.cpp" />
+		<Unit filename="src/atelier.cpp" />
+		<Unit filename="src/client.cpp" />
+		<Unit filename="src/commande_achat.cpp" />
+		<Unit filename="src/commande_rep.cpp" />
+		<Unit filename="src/date .cpp" />
+		<Unit filename="src/employe.cpp" />
+		<Unit filename="src/facture.cpp" />
+		<Unit filename="src/garage_auto.cpp" />
+		<Unit filename="src/magazin.cpp" />
+		<Unit filename="src/personne.cpp" />
+		<Unit filename="src/sim.cpp" />
+		<Unit filename="src/voiture.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
